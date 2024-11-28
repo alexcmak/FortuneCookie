@@ -1,6 +1,7 @@
 ## FortuneCookie
 
-No one encourage you? no problem?
+No one encourage you? no problem!
+
 Need some affirmation and some fortune cookie style messages? you got it.
 
 ### Usage
